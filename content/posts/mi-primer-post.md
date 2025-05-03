@@ -24,3 +24,5 @@ A continuación, un pequeño ejemplo de cómo se puede insertar código en tu bl
 ```python
 # Aquí puedes incluir fragmentos de código
 print("¡Hola mundo con Hugo!")
+a = 1 + 2
+print(a)
