@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Mi Blog Educativo AWS</title>
-    <link>http://example.org/categories/</link>
+    <link>https://d1s0teqc5zy5gn.cloudfront.net/categories/</link>
     <description>Recent content in Categories on Mi Blog Educativo AWS</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://d1s0teqc5zy5gn.cloudfront.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tutorial</title>
-      <link>http://example.org/categories/tutorial/</link>
+      <link>https://d1s0teqc5zy5gn.cloudfront.net/categories/tutorial/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://example.org/categories/tutorial/</guid>
+      <guid>https://d1s0teqc5zy5gn.cloudfront.net/categories/tutorial/</guid>
       <description></description>
     </item>
   </channel>
