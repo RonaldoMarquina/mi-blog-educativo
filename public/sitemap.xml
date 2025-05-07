@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://d1s0teqc5zy5gn.cloudfront.net/tags/blog/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/blog/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://d1s0teqc5zy5gn.cloudfront.net/categories/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://d1s0teqc5zy5gn.cloudfront.net/tags/hugo/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://d1s0teqc5zy5gn.cloudfront.net/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://d1s0teqc5zy5gn.cloudfront.net/posts/mi-primer-post/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/mi-primer-post/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://d1s0teqc5zy5gn.cloudfront.net/posts/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://d1s0teqc5zy5gn.cloudfront.net/tags/primeros-pasos/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/primeros-pasos/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://d1s0teqc5zy5gn.cloudfront.net/tags/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://d1s0teqc5zy5gn.cloudfront.net/categories/tutorial/</loc>
-    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/tutorial/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url>
 </urlset>

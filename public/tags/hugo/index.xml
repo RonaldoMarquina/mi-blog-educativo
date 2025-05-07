@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on Mi Blog Educativo AWS</title>
-    <link>https://d1s0teqc5zy5gn.cloudfront.net/tags/hugo/</link>
+    <link>http://localhost:1313/tags/hugo/</link>
     <description>Recent content in Hugo on Mi Blog Educativo AWS</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://d1s0teqc5zy5gn.cloudfront.net/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi Primer Post en Hugo</title>
-      <link>https://d1s0teqc5zy5gn.cloudfront.net/posts/mi-primer-post/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://d1s0teqc5zy5gn.cloudfront.net/posts/mi-primer-post/</guid>
+      <link>http://localhost:1313/posts/mi-primer-post/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mi-primer-post/</guid>
       <description>&lt;h2 id=&#34;bienvenido-a-mi-blog&#34;&gt;¡Bienvenido a mi blog!&lt;/h2&gt;
 &lt;p&gt;Este es mi primer post creado con &lt;strong&gt;Hugo&lt;/strong&gt;, un generador de sitios estáticos rápido y flexible.&lt;/p&gt;
 &lt;h2 id=&#34;qué-he-aprendido-hasta-ahora&#34;&gt;¿Qué he aprendido hasta ahora?&lt;/h2&gt;

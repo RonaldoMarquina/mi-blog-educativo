@@ -1,6 +1,6 @@
 ---
 title: "Mi Primer Post en Hugo"
-date: 2025-05-02
+date: 2024-05-07 
 author: "Ronaldo"
 categories: ["Tutorial"]
 tags: ["Hugo", "blog", "primeros pasos"]
