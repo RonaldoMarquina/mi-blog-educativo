@@ -1,4 +1,4 @@
-baseURL = "https://db5hk7p8qkiah.cloudfront.net" 
+baseURL = "https://db5hk7p8qkiah.cloudfront.net"
 languageCode = "es-es"
 title = "Mi Blog Educativo AWS" # O tu título
 theme = "PaperMod"
@@ -11,6 +11,7 @@ theme = "PaperMod"
   ShowShareButtons = true
   ShowReadingTime = true
   ShowPostNavLinks = true
+  customCSS = ["css/custom-comments.css"]
 
 [menu]
   [[menu.main]]

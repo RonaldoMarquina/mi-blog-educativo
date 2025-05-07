@@ -2,31 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://db5hk7p8qkiah.cloudfront.net/tags/conocimiento/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://db5hk7p8qkiah.cloudfront.net/tags/cultura/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://db5hk7p8qkiah.cloudfront.net/posts/mi-primer-post/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://db5hk7p8qkiah.cloudfront.net/tags/lectura/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mi-primer-post/</loc>
+    <loc>https://db5hk7p8qkiah.cloudfront.net/tags/libros/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://db5hk7p8qkiah.cloudfront.net/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/primeros-pasos/</loc>
+    <loc>https://db5hk7p8qkiah.cloudfront.net/posts/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://db5hk7p8qkiah.cloudfront.net/tags/reflexion/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/tutorial/</loc>
+    <loc>https://db5hk7p8qkiah.cloudfront.net/tags/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://db5hk7p8qkiah.cloudfront.net/categories/</loc>
   </url>
 </urlset>

@@ -1,0 +1,156 @@
+/* Estilos Elegantes para la Sección de Comentarios */
+
+/* --- Contenedor Principal de Comentarios --- */
+#comments-section {
+    margin-top: 40px; /* Más espacio arriba */
+    padding-top: 25px;
+    border-top: 1px solid #e0e0e0; /* Borde superior más sutil */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif; /* Fuente común y limpia */
+}
+
+#comments-section h2,
+#comments-section h3 { /* Títulos si los añades en single.html */
+    color: #333;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+#comments-section h2 { font-size: 1.8rem; } /* Para "Comentarios" */
+#comments-section h3 { font-size: 1.5rem; } /* Para "Deja un comentario" */
+
+
+/* --- Formulario para Añadir Comentario --- */
+#comment-form {
+    margin-bottom: 40px; /* Espacio entre el formulario y la lista de comentarios */
+}
+
+#comment-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600; /* Un poco más de peso */
+    color: #555;
+    font-size: 0.95rem;
+}
+
+#comment-form input[type="text"],
+#comment-form textarea {
+    width: 100%;
+    padding: 12px 15px; /* Un poco más de padding */
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px; /* Bordes un poco más redondeados */
+    box-sizing: border-box;
+    font-size: 1rem;
+    color: #333;
+    background-color: #fff;
+    transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+#comment-form input[type="text"]:focus,
+#comment-form textarea:focus {
+    border-color: #007bff; /* Color de acento al enfocar (ej. azul PaperMod) */
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25); /* Sombra sutil al enfocar */
+    outline: none;
+}
+
+#comment-form textarea {
+    min-height: 120px; /* Altura mínima para el área de texto */
+    resize: vertical; /* Permitir redimensionar verticalmente */
+}
+
+#comment-form button[type="submit"] {
+    background-color: #007bff; /* Color primario (ajusta si tu tema usa otro) */
+    color: white;
+    padding: 12px 25px; /* Botón más prominente */
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: background-color 0.2s ease-in-out;
+}
+
+#comment-form button[type="submit"]:hover {
+    background-color: #0056b3; /* Color más oscuro al pasar el ratón */
+}
+
+#comment-form-status {
+    margin-top: 15px;
+    font-style: italic;
+    font-size: 0.9rem;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+#comment-form-status[style*="color: green;"] { /* Para mensajes de éxito */
+    background-color: #e6ffed;
+    border: 1px solid #c3e6cb;
+}
+
+#comment-form-status[style*="color: red;"] { /* Para mensajes de error */
+    background-color: #f8d7da;
+    border: 1px solid #f5c6cb;
+}
+
+
+/* --- Lista de Comentarios --- */
+#comments-list {
+    margin-top: 20px;
+}
+
+.comment-item {
+    background-color: #f9f9f9; /* Fondo muy sutil para cada comentario */
+    border: 1px solid #e7e7e7; /* Borde aún más sutil */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px; /* Bordes más redondeados para un look suave */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05); /* Sombra muy ligera para dar profundidad */
+    overflow-wrap: break-word; /* Para que palabras largas no rompan el layout */
+    word-wrap: break-word;
+}
+
+.comment-item .comment-header { /* Un contenedor para autor y fecha si decides añadirlo */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.comment-item p:first-of-type { /* El párrafo que contiene autor y fecha */
+    margin-bottom: 10px;
+}
+
+.comment-item strong { /* Nombre del autor */
+    color: #222; /* Más oscuro */
+    font-weight: 600;
+    font-size: 1.05rem;
+}
+
+.comment-item small { /* Fecha y hora */
+    color: #666; /* Gris medio */
+    font-size: 0.85rem;
+    margin-left: 8px;
+}
+
+.comment-item p:not(:first-of-type) { /* Texto del comentario */
+    color: #444; /* Un gris oscuro legible */
+    line-height: 1.6; /* Buena interlínea para lectura */
+    margin-top: 0;
+}
+
+/* Placeholder text style */
+#comment-form input[type="text"]::placeholder,
+#comment-form textarea::placeholder {
+  color: #999;
+  opacity: 1; /* Firefox lo necesita */
+}
+
+/* Mensaje cuando no hay comentarios o cargando */
+#comments-list > p {
+    color: #777;
+    font-style: italic;
+    padding: 15px;
+    background-color: #f8f9fa;
+    border: 1px dashed #ddd;
+    border-radius: 4px;
+    text-align: center;
+}
