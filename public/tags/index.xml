@@ -6,41 +6,69 @@
     <description>Recent content in Tags on Mi Blog Educativo AWS</description>
     <generator>Hugo -- 0.147.1</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 12:30:00 -0400</lastBuildDate>
     <atom:link href="https://db5hk7p8qkiah.cloudfront.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Conocimiento</title>
-      <link>https://db5hk7p8qkiah.cloudfront.net/tags/conocimiento/</link>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://db5hk7p8qkiah.cloudfront.net/tags/conocimiento/</guid>
+      <title>Aprendizaje</title>
+      <link>https://db5hk7p8qkiah.cloudfront.net/tags/aprendizaje/</link>
+      <pubDate>Tue, 07 May 2024 12:30:00 -0400</pubDate>
+      <guid>https://db5hk7p8qkiah.cloudfront.net/tags/aprendizaje/</guid>
       <description></description>
     </item>
     <item>
-      <title>Cultura</title>
-      <link>https://db5hk7p8qkiah.cloudfront.net/tags/cultura/</link>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://db5hk7p8qkiah.cloudfront.net/tags/cultura/</guid>
+      <title>Compartir</title>
+      <link>https://db5hk7p8qkiah.cloudfront.net/tags/compartir/</link>
+      <pubDate>Tue, 07 May 2024 12:30:00 -0400</pubDate>
+      <guid>https://db5hk7p8qkiah.cloudfront.net/tags/compartir/</guid>
       <description></description>
     </item>
     <item>
-      <title>Lectura</title>
-      <link>https://db5hk7p8qkiah.cloudfront.net/tags/lectura/</link>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://db5hk7p8qkiah.cloudfront.net/tags/lectura/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Libros</title>
-      <link>https://db5hk7p8qkiah.cloudfront.net/tags/libros/</link>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://db5hk7p8qkiah.cloudfront.net/tags/libros/</guid>
+      <title>Comunidad</title>
+      <link>https://db5hk7p8qkiah.cloudfront.net/tags/comunidad/</link>
+      <pubDate>Tue, 07 May 2024 12:30:00 -0400</pubDate>
+      <guid>https://db5hk7p8qkiah.cloudfront.net/tags/comunidad/</guid>
       <description></description>
     </item>
     <item>
       <title>Reflexion</title>
       <link>https://db5hk7p8qkiah.cloudfront.net/tags/reflexion/</link>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 May 2024 12:30:00 -0400</pubDate>
       <guid>https://db5hk7p8qkiah.cloudfront.net/tags/reflexion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aws</title>
+      <link>https://db5hk7p8qkiah.cloudfront.net/tags/aws/</link>
+      <pubDate>Tue, 07 May 2024 12:00:00 -0400</pubDate>
+      <guid>https://db5hk7p8qkiah.cloudfront.net/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Libros</title>
+      <link>https://db5hk7p8qkiah.cloudfront.net/tags/libros/</link>
+      <pubDate>Tue, 07 May 2024 12:00:00 -0400</pubDate>
+      <guid>https://db5hk7p8qkiah.cloudfront.net/tags/libros/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recomendacion</title>
+      <link>https://db5hk7p8qkiah.cloudfront.net/tags/recomendacion/</link>
+      <pubDate>Tue, 07 May 2024 12:00:00 -0400</pubDate>
+      <guid>https://db5hk7p8qkiah.cloudfront.net/tags/recomendacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Serverless</title>
+      <link>https://db5hk7p8qkiah.cloudfront.net/tags/serverless/</link>
+      <pubDate>Tue, 07 May 2024 12:00:00 -0400</pubDate>
+      <guid>https://db5hk7p8qkiah.cloudfront.net/tags/serverless/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lectura</title>
+      <link>https://db5hk7p8qkiah.cloudfront.net/tags/lectura/</link>
+      <pubDate>Tue, 07 May 2024 11:30:00 -0400</pubDate>
+      <guid>https://db5hk7p8qkiah.cloudfront.net/tags/lectura/</guid>
       <description></description>
     </item>
   </channel>

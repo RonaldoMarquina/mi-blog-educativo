@@ -1,0 +1,26 @@
+{{ define "main" }} {{/* Usamos el bloque 'main' definido en baseof.html (del tema o tuyo) */}}
+
+  <div class="homepage-content" style="text-align: center; padding: 40px 0;"> 
+    
+    {{/* --- INICIO: AÑADIR GIF DE INICIO (HTML Simple) --- */}}
+ <img src="/images/portada.gif" 
+      alt="Portada Animada - Blog Educativo AWS" 
+      style="max-width: 80%; height: auto; max-height: 450px; margin-bottom: 30px; display: block; margin-left: auto; margin-right: auto; border-radius: 8px;"> 
+      {{/* Ajusta alt, max-width, max-height según necesites */}}
+ {{/* --- FIN: AÑADIR GIF DE INICIO --- */}}
+
+    <h1>{{ site.Title }}</h1> {{- /* Muestra el título del sitio desde hugo.toml */}}
+    
+    {{ with site.Params.description }}
+      <p style="font-size: 1.1em; color: var(--secondary); max-width: 600px; margin-left: auto; margin-right: auto;">{{ . }}</p> {{- /* Muestra la descripción desde hugo.toml si existe. Limitado ancho */}}
+    {{ end }}
+
+    <p style="margin-top: 30px;">
+        Explora nuestros <a href="{{ "/posts/" | relURL }}">últimos artículos</a> o aprende más sobre nosotros.
+    </p>
+    
+    {{/* Aquí NO ponemos el código para listar posts */}}
+
+  </div>
+
+{{ end }}
